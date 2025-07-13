@@ -8,4 +8,6 @@
 
 # Optional to ignore plugin Git clones
 #/plugins
-console.log("hello");
+console.log("hello"); 
+>/script>
+
