@@ -1,5 +1,6 @@
 # gitignore template for Vue.js projects
-#
+#console.log("hello world");
+
 # Recommended template: Node.gitignore
 
 # TODO: where does this rule come from?
